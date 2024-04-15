@@ -8,9 +8,7 @@ Supported UPS: http://www.networkupstools.org/stable-hcl.html
 
 # Value mapping
 
-Value mapping must be done before importing template. It can done in **Administration** / **General** / **Value mapping** (combobox on right side)
-
-Then **Create value map**
+**Value map**
 
 	0  - unknown state
 	1  - On line (mains is present)
